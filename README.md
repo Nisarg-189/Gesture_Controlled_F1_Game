@@ -115,8 +115,7 @@ GripAI/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/GripAI.git
-cd GripAI
+https://github.com/Nisarg-189/Gesture_Controlled_F1_Game.git
 ```
 
 ### 2. Install dependencies
